@@ -1,6 +1,6 @@
-🌟 Product Management Portfolio — Keyur Patni
+🌟 Product Management Portfolio - Keyur Patni
 
-👋 Hi, I’m Keyur — Product Owner & Business Analyst
+👋 Hi, I’m Keyur - Product Owner & Business Analyst
 I build products that solve real operational problems, reduce friction, and create meaningful user experiences.
 This portfolio showcases my end‑to‑end product thinking — from discovery to delivery — through real‑world case studies, artifacts, and execution plans.
 
